@@ -2,7 +2,7 @@
 
 Картинка без `alt` текста
 
-![](//placehold.it/150x100)
+![](https://www.google.com/search?q=бабочки&rlz=1C1CHBD_ruRU865RU865&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi_u4uOxcXkAhUr_SoKHYxqCMUQ_AUIEigB&biw=1920&bih=963#imgrc=gs0IHDQDG2-kvM:)
 
 Картинка с альтом и тайтлом:
 
