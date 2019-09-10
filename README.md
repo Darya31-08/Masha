@@ -2,7 +2,7 @@
 
 Картинка без `alt` текста
 
-![kartinka](//placehold.it/150x100)
+![kartinka](https://kipmu.ru/wp-content/uploads/babochki.jpg)
 
 Картинка с альтом и тайтлом:
 
