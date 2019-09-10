@@ -17,7 +17,7 @@
 ![Картинка][image3]
 
 [image1]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-S6XHgPrYdY9icSMxj9uNbknXatbOKcy1ldE8_rJSd0msyQGm
-[image2]: //placehold.it/200x100
+[image2]: https://prohoro.ru/wp-content/uploads/2012/01/losh.jpg
 [image3]: //placehold.it/150x100
 
 Картинки-ссылки:
