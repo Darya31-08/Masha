@@ -6,7 +6,7 @@
 
 Картинка с альтом и тайтлом:
 
-![Alt text](//placehold.it/150x100 "Можно задать title")
+![Alt text](https://animaljournal.ru/articles/wild/nasekomie/greta_oto/babochka_greta_oto.jpg)
 
 Запомнить просто: синтаксис как у ссылок, только перед открывающей квадратной скобкой ставится восклицательный знак.
 
